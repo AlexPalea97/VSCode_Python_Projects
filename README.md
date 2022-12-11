@@ -1,1 +1,1 @@
-# VSCode_Python_Projects
+Some pure Python projects
